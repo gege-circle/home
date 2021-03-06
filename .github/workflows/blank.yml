@@ -1,6 +1,6 @@
 on:
   issues:
-    types: [opened]
+    types: [open]
 
 jobs:
   build:
