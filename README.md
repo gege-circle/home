@@ -21,7 +21,9 @@
 ##### 狗主：[嘉然](https://zh.moegirl.org.cn/嘉然)
 ##### 散神：网络喷子
 ##### 机枪：刷屏机器人，又称“[独轮车](https://zh.moegirl.org.cn/独轮车)”
-##### 药神：乐子人
+##### 药人：乐子人
 ##### 水桃：陈小桃，王戈的朋友
 ##### 二辣：[神乐七奈](https://zh.moegirl.org.cn/神乐七奈)
 ##### 报亭：[DD情报局](https://zh.moegirl.org.cn/DD情报局)
+##### 百货：[Warma/沃玛](https://zh.moegirl.org.cn/Warma)
+##### 憨妹：[hanser](https://zh.moegirl.org.cn/hanser)
