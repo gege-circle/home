@@ -1,7 +1,7 @@
 ![gege-circle](https://user-images.githubusercontent.com/69033087/109669965-97b96380-7bad-11eb-8c6a-6c09c968654f.jpg)
 
 ## 王戈wg是谁？
-Ta是一名高中生，喜欢绘画和玩游戏。
+<small>Ta是一名高中生，喜欢绘画和玩游戏。</small>
 
 Ta的虚拟形象诞生于2020年11月7日，是一个由宠物狗转生的女孩子<s>（实际上是男生）</s>。
 
