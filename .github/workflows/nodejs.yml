@@ -1,0 +1,77 @@
+name: Node CI
+
+on: [push, pull_request]
+
+jobs:
+
+  test:
+
+    runs-on: macos-latest
+
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js 13
+
+      uses: actions/setup-node@v1
+
+      with:
+
+        node-version: '13'
+
+    - name: npm install, and test
+
+      run: |
+
+        npm install
+
+        npm run action-test
+
+  update:
+
+    needs: [test]
+
+    if: github.ref == 'refs/heads/master'
+
+    runs-on: ubuntu-latest
+
+    continue-on-error: true
+
+    steps:
+
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js 13
+
+      uses: actions/setup-node@v1
+
+      with:
+
+        node-version: '13'
+
+    - name: npm generate
+
+      run: |
+
+        npm install
+
+        npm run update
+
+    - name: Deploy
+
+      uses: peaceiris/actions-gh-pages@v3
+
+      with:
+
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
+        publish_dir: ./
+
+        cname: vdb.vtbs.moe
+
+        user_name: 'nanashi'
+
+        user_email: 'example@example.com'
+
+        enable_jekyll: true
