@@ -4,6 +4,7 @@ on:
     types: [created]
   issues: 
     types: [opened]
+
 jobs:
   build:
     runs-on: ubuntu-latest
