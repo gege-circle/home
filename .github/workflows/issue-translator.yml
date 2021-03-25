@@ -12,3 +12,4 @@ jobs:
       - uses: tomsun28/issues-translate-action@v2.5
         with:
           IS_MODIFY_TITLE: true
+          BOT_GITHUB_TOKEN: ${{ github.token }}
