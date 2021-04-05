@@ -21,10 +21,9 @@
 * 违反[Github社区指导方针](https://docs.github.com/cn/github/site-policy/github-community-guidelines)的内容
 
 若用户的行为不符合以上提到的服务条款，戈戈圈将作出独立判断，包括但不限于关闭、删除issues或屏蔽相关用户的帐号，用户需自行对其全部行为承担一切责任。
-
 ## 常见问题
 #### Q：Github不是一个代码网站吗，怎么变成讨论区了？
-A：Github确实是一个代码网站，你可以查看该项目的文件，该项目的主要用途在于备份微博博文和文章、知乎回答和专栏、b站专栏和a站文章（具体可以查看[关联项目](https://github.com/gege-circle/github-action)），而且该项目规定可以分享新鲜事，因此你在此项目发表这些内容是符合规范的。
+A：你可以查看[关联项目](https://github.com/gege-circle/github-action)，该项目的主要用途在于备份微博文章、知乎回答和专栏、b站专栏和a站文章（具体可以查看），因此你在这个项目发表这些内容是符合规范的。
 
 #### Q：如何备份文章？
 A：在issues的内容输入链接，即可将文章进行备份，这个过程一般要持续30秒至5分钟左右。
