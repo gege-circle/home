@@ -31,6 +31,16 @@ A：可以查看[关联项目](https://github.com/gege-circle/github-action)，�
 
 A：在issues的内容输入链接，即可将文章进行备份，这个过程一般要持续30秒至5分钟左右。
 
+<b>可能要用到的html代码</b>
+
+html超链接：
+
+`<a href="网页链接">link text</a>`
+
+html图片格式：
+
+`<img src="图片链接" width="宽度" height="高度"/>`
+
 ## 网络用语
 * 戈大大/狗子椰/狗神：王戈wg
 * 红呆毛：[新科娘/心萪](https://zh.moegirl.org.cn/新科娘)
