@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: nc-animation/duty-machine-action@master
+      - uses: gege-circle@master
         env:
           TOKEN: ${{ github.token }}
           REPOSITORY: ${{ github.repository }}
