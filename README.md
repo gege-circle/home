@@ -21,7 +21,7 @@
 
 `code`是主页，你可以在这里查看项目简介。
 
-`issues`是文章推送，用来备份微博、知乎、b站等平台的文章内容，你也可以使用这个服务([详情请看](https://github.com/gege-circle/github-actions))。
+`issues`是文章推送，用来备份微博、知乎、b站等平台的文章内容，你也可以使用这个服务。
 
 `discussions`是讨论区，你可以在这里分享网络趣事。
 
@@ -40,7 +40,7 @@
 ## 常见问题
 <b>Q：Github不是一个代码网站吗，怎么变成讨论区了？</b>
 
-A：可以查看[关联项目](https://github.com/gege-circle/github-action)，该项目的主要用途在于备份微博文章、知乎回答和专栏、b站专栏和a站文章，因此你在这个项目发表这些内容是符合规范的。
+A：你可以查看[关联项目](https://github.com/gege-circle/github-action)，该项目的主要用途在于备份网络文章，因此你在这个项目发表这些内容是符合规范的。
 
 <b>Q：如何备份文章？</b>
 
