@@ -15,6 +15,28 @@
 * 违反[Github社区指导方针](https://docs.github.com/cn/github/site-policy/github-community-guidelines)的内容
 
 若用户的行为不符合以上提到的服务条款，戈戈圈将作出独立判断，包括但不限于关闭、删除issues或屏蔽相关用户的帐号，用户需自行对其全部行为承担一切责任。
+
+## 项目分区介绍
+**主要**：
+
+`code`是主页，你可以在这里查看项目简介。
+
+`issues`是文章推送，用来备份微博、知乎、b站等平台的文章内容，你也可以使用这个服务([详情请看](https://github.com/gege-circle/github-actions))。
+
+`discussions`是讨论区，你可以在这里分享网络趣事。
+
+`pull requests`是拉请求，当你将这个项目forks到你的账号中，并在那个项目修改源代码，即可创建一个拉请求。
+
+`wiki`是项目百科，你可以在这里查看戈戈圈的简介，以及更多资料(然而并没有什么卵用)。
+
+**次要**：
+
+`action`是项目操作历史。
+
+`security`是项目安全性。
+
+`insights`是项目数据统计。
+
 ## 常见问题
 <b>Q：Github不是一个代码网站吗，怎么变成讨论区了？</b>
 
