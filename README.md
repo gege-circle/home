@@ -48,13 +48,21 @@ A：在issues的内容输入链接，即可将文章进行备份，这个过程�
 
 <b>可能要用到的html代码</b>
 
-html超链接：
+超链接：
 
 `<a href="网页链接">link text</a>`
 
-html图片格式：
+图片格式：
 
 `<img src="图片链接" width="宽度" height="高度"/>`
+
+回复内容：
+```
+<div type='discussions-op-text'>
+
+<sup>Originally posted by **用户名** 日期</sup>
+内容</div>
+```
 
 ## 网络用语
 * 戈大大/狗子椰/狗神：王戈wg
