@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: gege-circle/mp_duty@master
+      - uses: duty-machine/duty-machine-action@master
         env:
           TOKEN: ${{ github.token }}
           REPOSITORY: ${{ github.repository }}
