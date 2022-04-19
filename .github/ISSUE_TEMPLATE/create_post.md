@@ -1,6 +1,5 @@
 ---
 name: 发布帖子 Create post 
-about: ''
-labels: ''
-assignees: ''
+description: test1
+body: test2
 ---
