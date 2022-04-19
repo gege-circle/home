@@ -1,6 +1,6 @@
 ---
 name: 发布帖子 Create post
-about: ️️️
+about: 点击“Get started”创建一个帖子 Click “Get started” to create a post 
 title: "️"
 labels: 
 
