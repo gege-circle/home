@@ -1,7 +1,8 @@
 ---
 name: 发布帖子 Create post
-about: 
-title: ""
+about: test
+title: "test"
+labels: [test]
 
 ---
 
