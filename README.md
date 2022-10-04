@@ -44,20 +44,3 @@ _Language:_ **中文** | [English](./README_EN.md)
 <sup>Originally posted by **用户名** 日期</sup>
 内容</div>
 ```
-
-## 网络用语
-* 戈大大/狗子椰/狗神：王戈wg
-* 红呆毛：[新科娘/心萪](https://zh.moegirl.org.cn/新科娘)
-* 白钢板：[机萪](https://zh.moegirl.org.cn/机萪)
-* 黑钢板：盎然酱
-* 煎主：[申䒕雅](https://zh.moegirl.org.cn/申䒕雅)
-* 药腐：魔法少女乐府酱
-* 狗主：[嘉然](https://zh.moegirl.org.cn/嘉然)
-* 散神：网络喷子
-* 机枪：刷屏机器人，又称“[独轮车](https://zh.moegirl.org.cn/独轮车)”
-* 药人：乐子人
-* 水桃：陈小桃，王戈的朋友
-* 二辣：[神乐七奈](https://zh.moegirl.org.cn/神乐七奈)
-* 报亭：[DD情报局](https://zh.moegirl.org.cn/DD情报局)
-* 百货：[Warma/沃玛](https://zh.moegirl.org.cn/Warma)
-* 憨妹：[hanser](https://zh.moegirl.org.cn/hanser)
