@@ -67,10 +67,6 @@ _Language:_ **中文** | [English](./README_EN.md) | [日本語](./README_JA.md)
 
 注：如果你以前在无关视频中提到过戈戈圈，没关系，从现在开始我们一起把这个现象去除掉，<b>跟我们一起点举报就好！拜托了</b>！
 
-<div align=center>
-<img src="https://github.com/user-attachments/assets/1efa9c5f-4c9a-4aeb-a208-386f5fcad03b" width="100%"/>
-</div>
-
 在这个存储库的最后，悄悄告诉你们一个大家都知道的秘密~
 
 其实，戈戈圈一直以来都将大家当做好朋友或亲密无间的兄弟姐妹，共同度过每一个瞬间~
