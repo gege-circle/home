@@ -83,7 +83,7 @@ _Language:_ **中文** | [English](./README_EN.md) | [日本語](./README_JA.md)
 
 <b>这份感激之情，永远铭记于心！💖</b>
 
-# Issues 去哪了？
+## Issues 去哪了？
 考虑到此存储库长期处于闲置状态，且讨论功能现已转移到 Reddit 论坛 r/gege_circle，因此我们决定关闭此存储库的 Issues，这与 GitHub 或其他方面无关。
 
 如需进一步的讨论，请前往我们的 Reddit 论坛 **[r/gege_circle](https://reddit.com/r/gege_circle)** 获取更多信息。
