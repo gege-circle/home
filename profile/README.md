@@ -1,4 +1,4 @@
-_Language:_ [中文](./README.md) | **English** | [日本語](./README_JA.md)
+_Language:_ [中文](https://github.com/gege-circle/.github) | **English** | [日本語](./README_JA.md)
 
 ## Welcome to Gege Circle!
 When you open this repository, you'll see the logo of **Gege Circle** ↓
