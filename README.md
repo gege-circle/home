@@ -1,4 +1,4 @@
-_Language:_ **中文** | [English](./profile/README.md) | [日本語](./README_JA.md)
+_Language:_ **中文** | [English](https://github.com/gege-circle) | [日本語](./README_JA.md)
 
 ## 欢迎来到戈戈圈！
 当你点开这个存储库的时候，你会看到<b>戈戈圈的图标</b>↓
